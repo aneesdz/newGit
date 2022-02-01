@@ -1,0 +1,2 @@
+# newGit
+initial try
